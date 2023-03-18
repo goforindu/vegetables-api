@@ -1,0 +1,259 @@
+{
+    "vegetables":[
+        {
+          "name": "Cauliflower",
+          "desc": "",
+          "img_url": "cauliflower.png",
+          "audio_desc_url": "cauliflower.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Cabbage",
+          "desc": "",
+          "img_url": "cabbage.png",
+          "audio_desc_url": "cabbage.mp3",
+          "colour": "tomato"
+        }
+        ,
+        {
+          "name": "Green bell pepper",
+          "desc": "",
+          "img_url": "bell.png",
+          "audio_desc_url": "bell.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Asparagus",
+          "desc": "",
+          "img_url": "asparagus.png",
+          "audio_desc_url": "asparagus.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Carrot",
+          "desc": "",
+          "img_url": "carrot.png",
+          "audio_desc_url": "carrot.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Pumpkin",
+          "desc": "",
+          "img_url": "pumpkin.png",
+          "audio_desc_url": "pumpkin.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Zucchini",
+          "desc": "",
+          "img_url": "zucchini.png",
+          "audio_desc_url": "zucchini.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "French Beans",
+          "desc": "",
+          "img_url": "beans.png",
+          "audio_desc_url": "beans.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Okra",
+          "desc": "",
+          "img_url": "okra.png",
+          "audio_desc_url": "okra.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Peas",
+          "desc": "",
+          "img_url": "peas.png",
+          "audio_desc_url": "peas.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Spinach",
+          "desc": "",
+          "img_url": "spinach.png",
+          "audio_desc_url": "spinach.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Lettuce",
+          "desc": "",
+          "img_url": "lettuce.png",
+          "audio_desc_url": "lettuce.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Corn",
+          "desc": "",
+          "img_url": "corn.png",
+          "audio_desc_url": "corn.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Garlic",
+          "desc": "",
+          "img_url": "garlic.png",
+          "audio_desc_url": "garlic.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Onion",
+          "desc": "",
+          "img_url": "/assets/vegetables/onion.png",
+          "audio_desc_url": "onion.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Turnip",
+          "desc": "",
+          "img_url": "turnip.png",
+          "audio_desc_url": "turnip.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Potato",
+          "desc": "",
+          "img_url": "potato.png",
+          "audio_desc_url": "potato.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Sweet Potato",
+          "desc": "",
+          "img_url": "sweetpotato.png",
+          "audio_desc_url": "sweetpotato.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Eggplant",
+          "desc": "",
+          "img_url": "eggplant.png",
+          "audio_desc_url": "eggplant.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Beetroot",
+          "desc": "",
+          "img_url": "beetroot.png",
+          "audio_desc_url": "beetroot.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Broccoli",
+          "desc": "",
+          "img_url": "broccoli.png",
+          "audio_desc_url": "broccoli.mp3",
+          "colour": "tomato"
+        },
+        {
+          "name": "Radish",
+          "desc": "",
+          "img_url": "radish.png",
+          "audio_desc_url": "radish.mp3",
+          "colour": "tomato"
+        }
+      ],
+      "farm":[
+        {
+          "name": "Cow",
+          "desc": "",
+          "img_url": "cow.png",
+          "audio_desc_url": "cow.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Bull",
+          "desc": "",
+          "img_url": "bull.png",
+          "audio_desc_url": "bull.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Goat",
+          "desc": "",
+          "img_url": "goat.png",
+          "audio_desc_url": "goat.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Sheep",
+          "desc": "",
+          "img_url": "sheep.png",
+          "audio_desc_url": "sheep.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Horse",
+          "desc": "",
+          "img_url": "horse.png",
+          "audio_desc_url": "horse.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Camel",
+          "desc": "",
+          "img_url": "camel.png",
+          "audio_desc_url": "camel.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Llama",
+          "desc": "",
+          "img_url": "llama.png",
+          "audio_desc_url": "llama.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Yak",
+          "desc": "",
+          "img_url": "yak.png",
+          "audio_desc_url": "yak.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Donkey",
+          "desc": "",
+          "img_url": "donkey.png",
+          "audio_desc_url": "donkey.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Rooster",
+          "desc": "",
+          "img_url": "rooster.png",
+          "audio_desc_url": "rooster.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Duck",
+          "desc": "",
+          "img_url": "duck.png",
+          "audio_desc_url": "duck.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Goose",
+          "desc": "",
+          "img_url": "goose.png",
+          "audio_desc_url": "goose.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Hen",
+          "desc": "",
+          "img_url": "hen.png",
+          "audio_desc_url": "hen.mp3",
+          "colour": "orange"
+        },
+        {
+          "name": "Turkey",
+          "desc": "",
+          "img_url": "turkey.png",
+          "audio_desc_url": "turkey.mp3",
+          "colour": "orange"
+        }
+      ]
+}
