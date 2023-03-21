@@ -102,7 +102,7 @@
         {
           "name": "Onion",
           "desc": "",
-          "img_url": "/assets/vegetables/onion.png",
+          "img_url": "onion.png",
           "audio_desc_url": "onion.mp3",
           "colour": "tomato"
         },
